@@ -1,0 +1,15 @@
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\bin\Debug\net7.0\exsample002HellowUser.exe
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\bin\Debug\net7.0\exsample002HellowUser.deps.json
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\bin\Debug\net7.0\exsample002HellowUser.runtimeconfig.json
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\bin\Debug\net7.0\exsample002HellowUser.dll
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\bin\Debug\net7.0\exsample002HellowUser.pdb
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.csproj.AssemblyReference.cache
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.AssemblyInfoInputs.cache
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.AssemblyInfo.cs
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.dll
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\refint\exsample002HellowUser.dll
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.pdb
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\exsample002HellowUser.genruntimeconfig.cache
+C:\Users\Георгий\Documents\intProg\exsample002HellowUser\obj\Debug\net7.0\ref\exsample002HellowUser.dll
